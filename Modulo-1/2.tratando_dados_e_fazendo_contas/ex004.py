@@ -1,13 +1,13 @@
 #Faça um programa que leia algo pelo teclado e e mostre na tela qual seu tipo primitivo e todas as informações possíveis sobre ela.
 
 #Tentativa sem a solução
-# n = input('Digitel algo: ')
-# print(type(n))
-# print(n.isalnum())
-# print(n.isalpha())
-# print(n.isnumeric())
-# print(n.isupper())
-# print(n.islower())
+n = input('Digite algo: ')
+print(type(n))
+print(n.isalnum())
+print(n.isalpha())
+print(n.isnumeric())
+print(n.isupper())
+print(n.islower())
 
 # Tentativa com a solução
 a = input('Digite algo: ')
